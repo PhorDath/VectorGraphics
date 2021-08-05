@@ -38,6 +38,7 @@ struct Object {
 	}
 };
 
+
 class VectorGraphic : public olc::PixelGameEngine {
 
 public:
